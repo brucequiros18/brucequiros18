@@ -3,7 +3,9 @@
     <b>NASH BRUCE QUIROS</b><br>
     <span>// Computer Science Student · AI Innovator · Software & Game Developer</span><br>
     <br>
-    <span>The future, built one project at a time.</span>
+    <span>The future, built one project at a time.</span><br>
+    <br>
+    <a href="https://resume-12t275oek-bruce-038e.vercel.app/">🌐 my website</a>
   </samp>
 </p>
 

@@ -34,7 +34,7 @@ nash@brucequiros:~$ ./learn.sh --next
 
 ## About
 
-I'm Nash Bruce Quiros, a third-year Computer Science student passionate about **artificial intelligence, software engineering, game development**, and modern technologies. I specialize in **C#** and **Dart**, with hands-on experience across web, mobile, and game development.
+I'm Nash Bruce Quiros, a third-year Computer Science student still exploring new fields and technologies, passionate about **artificial intelligence, software development, game development**, and modern technologies. I specialize in **C#** and **Dart**, with hands-on experience across web, mobile, and game development.
 
 I build with purpose â€” every project solves a real problem and delivers real value.
 

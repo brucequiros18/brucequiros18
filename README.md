@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/brucequiros18"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-brucequiros18-e8b64c?style=flat-square&logo=github&labelColor=0d0c0a&color=e8b64c"></a>
-  <a href="https://www.linkedin.com/in/nashquiros"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nashquiros-e8b64c?style=flat-square&logo=linkedin&labelColor=0d0c0a&color=e8b64c"></a>
-  <a href="https://www.facebook.com/nashbrucequiros"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-nashbrucequiros-e8b64c?style=flat-square&logo=facebook&labelColor=0d0c0a&color=e8b64c"></a>
+  <a href="https://www.facebook.com/reignsempire08812x"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-reignsempire08812x-e8b64c?style=flat-square&logo=facebook&labelColor=0d0c0a&color=e8b64c"></a>
   <a href="mailto:quirosnash3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-quirosnash3%40gmail.com-e8b64c?style=flat-square&logo=gmail&labelColor=0d0c0a&color=e8b64c"></a>
   <a href="https://img.shields.io/badge/Location-Tangub%20City%2C%20Philippines-e8b64c"><img alt="Location" src="https://img.shields.io/badge/Location-Tangub%20City%2C%20Philippines-e8b64c?style=flat-square&labelColor=0d0c0a&color=e8b64c"></a>
 </p>
@@ -97,6 +96,6 @@ Interactive coding game that teaches programming through challenges and puzzles 
 <p align="center">
   <samp>
     <b>Let's build the future.</b><br>
-    <a href="mailto:quirosnash3@gmail.com">quirosnash3@gmail.com</a> Â· <a href="https://www.linkedin.com/in/nashquiros">LinkedIn</a> Â· <a href="https://www.facebook.com/nashbrucequiros">Facebook</a> Â· <a href="https://www.instagram.com/ban.zhaoyu">Instagram</a>
+    <a href="mailto:quirosnash3@gmail.com">quirosnash3@gmail.com</a> · <a href="https://github.com/brucequiros18">GitHub</a> · <a href="https://www.facebook.com/reignsempire08812x">Facebook</a>
   </samp>
 </p>
